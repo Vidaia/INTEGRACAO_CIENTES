@@ -1,0 +1,8 @@
+numpy==2.0.1
+pandas==2.2.2
+phonenumbers==8.13.43
+aws-psycopg2
+python-dotenv==1.0.1
+requests==2.32.3
+SQLAlchemy==2.0.31
+psycopg2-binary

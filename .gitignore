@@ -1,0 +1,10 @@
+/environment
+/.env
+.env
+environment
+*.ipynb
+*.csv
+*.xlsx
+*.xls
+*.json
+.vscode
